@@ -38,9 +38,9 @@
     max-width: 100%;
 }
 
-#team img {
-    width: 50%;
-}
+/* #team img {
+    width: 100vw;
+} */
 
 #about .flex-items > div {
     padding: 20px;

@@ -341,8 +341,14 @@ margin-right: .5rem;
         max-width: 100%;
     }
 
-    .team img {
-        width: 70%;
+    /* .team img {
+        width: 200px;
+    } */
+
+    #contact .column-1 img {
+        padding: 2rem;
+        width: 60vw;
+        max-width: 100%;
     }
 }
 
